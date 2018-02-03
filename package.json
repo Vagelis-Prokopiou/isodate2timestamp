@@ -1,0 +1,29 @@
+{
+  "name": "isodate2timestamp",
+  "version": "1.0.0",
+  "description": "Module for conversion of ISO dates to UNIX timestamp",
+  "main": "isodate2timestamp.js",
+  "author": "Vagelis Prokopiou <vagelis.prokopiou@gmail.com> (https://github.com/VagelisProkopiou)",
+  "scripts": {
+    "test": "jest --colors",
+    "watch": "jest --colors --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.com/drz4007/isodate2timestamp.git"
+  },
+  "keywords": [
+    "date",
+    "parse",
+    "format",
+    "unix",
+    "timestamp"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
