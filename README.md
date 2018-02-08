@@ -4,7 +4,6 @@ A helper function for transforming ISO dates to Unix timestamp. Based on functio
 
 ### Installation
 
-
 ```
 npm install --save isodate2timestamp
 ```
@@ -18,6 +17,7 @@ const timestamp = isodate2timestamp("1971-06-16T00:00:00Z");
 ```
 
 Run the tests with:
+
 ```
 npm test
 ```
