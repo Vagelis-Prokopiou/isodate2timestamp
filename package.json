@@ -2,7 +2,7 @@
   "name": "isodate2timestamp",
   "version": "1.0.1",
   "description": "Module for conversion of ISO dates to UNIX timestamp",
-  "main": "isodate2timestamp.js",
+  "main": "lib/isodate2timestamp.js",
   "author": "Vagelis Prokopiou <vagelis.prokopiou@gmail.com> (https://github.com/Vagelis-Prokopiou)",
   "scripts": {
     "test": "jest --colors",
