@@ -1,4 +1,4 @@
-# isodate2timestamp
+# isodate2timestamp ![CircleCI](https://circleci.com/gh/Vagelis-Prokopiou/isodate2timestamp.svg?style=shield&circle-token=:circle-token)
 
 A helper function for transforming ISO dates to Unix timestamp. Based on functionality provided by moment.js (https://momentjs.com/).
 
